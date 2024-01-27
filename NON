@@ -1,38 +1,50 @@
-{	"name": "ทดสอบระบบ",
-   	"author": "SIAMLINK",
-   	"image": "https://i.pinimg.com/originals/44/45/4f/44454f54408f719aac56287292a14243.jpg",
-	
-	"stations": [
-
 {
-         	name: "Thairath",
-         	image: "https://www.we-play.tv//uploads/posters/thairath-tv-poster1602705329.jpeg",             
-         	"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/9nunghd_%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-2023.m3u"
-},
-{
-      	name: "ONE HD",
-    	image: "https://www.we-play.tv//uploads/posters/one-hd-poster1602705076.jpeg",             
-        	"url": "https://one31-rlbwkq.cdn.byteark.com/live/playlist-hd.m3u8"
-},
-{
-          	name: "MCOT HD",
-       	image: "https://www.we-play.tv//uploads/posters/mcot-hd-poster1602705016.jpeg",             
-          	"url": "http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8"
-},
-{
-       	name: "Thai PBS",
-       	image: "https://www.we-play.tv//uploads/posters/thai-pbs-poster1602705288.jpeg",             
-       	"url": "https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
-},
-{
-        	name: "TNN16 ",
-      	image: "https://www.lyngsat.com/logo/tv/tt/tnn-16-th.png",             
-       	"url": "https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8"
-},
-{ 	name: "CH8",
-       	image: "https://www.lyngsat.com/logo/tv/tt/thai-channel-8-th.png",             
-         	"url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8"
-},
-
-]
-}
+	"name": "ทีวีดิจิตอล ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+	"author": "SIAMLINK TV",
+	"image": "https://i.ibb.co/TWNQhtv/image.png",
+	"url": "https://br14.short.gy/tv",
+	"groups": [
+	{
+		"name": "ช่องทีวีดิจิตอล",
+		"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/th.m3u",
+		"import":"false"
+	},
+	{
+		"name": "ช่องทีวีดิจิตอล",
+		"image": "https://images.droidsans.com/wp-content/uploads/2014/04/doodee-sticker.png",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/ช่องทีวีดิจิตอล.txt",
+		"import":"false"
+	},
+	{
+		"name": "dooball2you",
+		"image": "https://dooball2you.com/wp-content/uploads/2023/09/cropped-dooball2you.png",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/dooball2you_live_tv.w3u",
+		"import":"false"
+	},
+	{
+		"name": "youdooball",
+		"image": "https://www.youdooball.com/assets/images/logo_big.png",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/youdooball_live_tv.w3u",
+		"import":"false"
+	},
+	{
+		"name": "madoohd",
+		"image": "https://thumbs.dreamstime.com/b/live-tv-premium-red-tag-sign-live-tv-isolated-premium-red-tag-sign-abstract-illustration-123104721.jpg",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/madoohd_live_tv.w3u",
+		"import":"false"
+	},
+	{
+		"name": "madoohd",
+		"image": "https://thumbs.dreamstime.com/b/live-tv-premium-red-tag-sign-live-tv-isolated-premium-red-tag-sign-abstract-illustration-123104721.jpg",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/madoohd_live_tv.w3u",
+		"import":"false"
+	},
+	{
+		"name": "FreeTVdd",
+		"image": "https://th.bing.com/th/id/OIP.8yWZkUP7huPcp-2Y1a1y_gHaB4?rs=1&pid=ImgDetMain",
+		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/freetvdd_live_tv.w3u",
+		"import":"false"
+	},
+      ]
+    }]}]}]}
