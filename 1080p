@@ -25,8 +25,8 @@ Copyright ©2024 SiamIPTV All rights reserved
 	},
 	
 {
-		"name": "ทีวีออนไลน์ดูผ่านVPN🙈",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSio0Uay4crctOBpAUIkNfukRiRTd2oA6ULpA&usqp=CAU",
+		"name": "รายการสด",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUdzmMPJPfUx5RWzs8pAh_gOe3nHupcT-RQ&usqp=CAU",
 		"url": "https://pastebin.com/raw/PYRGQh2C",
 		"import":"false"
 	},
@@ -76,7 +76,7 @@ Copyright ©2024 SiamIPTV All rights reserved
 	},
  {
 		"name": "Live สด",
-		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUdzmMPJPfUx5RWzs8pAh_gOe3nHupcT-RQ&usqp=CAU",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSio0Uay4crctOBpAUIkNfukRiRTd2oA6ULpA&usqp=CAU",
 		"url": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/20231207_172943.jpg",
 		"import":"false"
 	},
