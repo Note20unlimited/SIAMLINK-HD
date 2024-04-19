@@ -50,6 +50,12 @@ Copyright ©2024 SiamIPTV All rights reserved
 		"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/th.m3u",
 "import":"false"
 	},
+{
+"name"              :     "LAO TV",
+"image"             :     "https://play-lh.googleusercontent.com/Qytqx4IDB-75ydL3IX8kx4ApfA6P-Whk9Q_W8arKIp0MkbmI6qEg_YsnFH4m4ijL8wbL=w240-h480-rw",
+"url"               :     "https://pastebin.com/yK6KEarr",
+"import": false
+},
  {
 		"name": "SIAM HD2",
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmH4AXBMxEbLiUm6epQ4OLrdvIxgzpOEu-Ew&usqp=CAU",
