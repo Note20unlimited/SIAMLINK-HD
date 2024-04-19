@@ -51,9 +51,16 @@ Copyright ©2024 SiamIPTV All rights reserved
 "import":"false"
 	},
 {
-"name"              :     "LAO TV",
-"image"             :     "https://play-lh.googleusercontent.com/Qytqx4IDB-75ydL3IX8kx4ApfA6P-Whk9Q_W8arKIp0MkbmI6qEg_YsnFH4m4ijL8wbL=w240-h480-rw",
-"url"               :     "https://pastebin.com/yK6KEarr",
+"name": "MOVIE",
+"image": "https://lajoyalink.com/wp-content/uploads/2018/03/Movie.jpg",
+"url": "https://pastebin.com/cZ01eqEV",
+"import": false
+},
+ 
+{
+"name": "SERIES",
+"image": "https://plusaround.com/wp-content/uploads/2020/10/korea-series.jpg.webp",
+"url": "https://pastebin.com/re3i4xHy",
 "import": false
 },
  {
