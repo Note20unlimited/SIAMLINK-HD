@@ -83,13 +83,13 @@ Copyright ©2024 SiamIPTV All rights reserved
 
 	
 {
-		"name": "รายการสด",
+		"name": "รายการทีวีสด",
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfUdzmMPJPfUx5RWzs8pAh_gOe3nHupcT-RQ&usqp=CAU",
 		"url": "https://pastebin.com/raw/Lv1J1Kwn",
 		"import":"false"
 	},
 	{
-		"name": "หนังใหม่ชนโรง2023-2024",
+		"name": "หนัง2024",
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEpj_6M3T3J1L36zD75kcvYG2G6bR04awGiA&usqp=CAU",
 		"url": "https://pastebin.com/J6H7a6AP",
 		"import":"false"
@@ -109,14 +109,14 @@ Copyright ©2024 SiamIPTV All rights reserved
 "import":"false"
 	},
 {
-"name": "MOVIE",
+"name": "MOVIE NEW",
 "image": "https://lajoyalink.com/wp-content/uploads/2018/03/Movie.jpg",
 "url": "https://pastebin.com/cZ01eqEV",
 "import": false
 },
  
 {
-"name": "SERIES",
+"name": "SERIES NEW",
 "image": "https://plusaround.com/wp-content/uploads/2020/10/korea-series.jpg.webp",
 "url": "https://pastebin.com/re3i4xHy",
 "import": false
