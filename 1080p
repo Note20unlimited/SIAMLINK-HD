@@ -23,6 +23,64 @@ Copyright ©2024 SiamIPTV All rights reserved
 		"url": "https://pastebin.com/raw/gxJtx88H",
 		"import":"false"
 	},
+
+
+{
+"name"              :     "Sport Channel",
+"image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",
+"url"               :     "https://pastebin.com/EhARAHhP",
+"import": false
+},
+
+
+{
+"name": "Japan TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2_uZlvxVdoLf7kxMjLUDIYnTCUvIO0GRityPJLxoGzQS1-dF0CGLdNsDCJKMYTiTXUE&usqp=CAU",
+"url": "https://pastebin.com/raw/kdzS7nSx",
+"import": "true"
+},
+
+{
+"name": "Kids",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
+"url": "https://pastebin.com/5ReNzFMp",
+"import": false
+},
+
+
+
+{
+"name"              :     "Radio Online",
+"image"             :     "https://cdn.icon-icons.com/icons2/544/PNG/512/Radio_icon-icons.com_53189.png",
+"url"               :     "https://pastebin.com/XEBsKWZr",
+"import": false
+},
+
+
+
+{
+"name": " Documentary",
+"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6dc8d256-46ca-4aa1-b0ac-f2f1d1eaa538/dcjd0z4-6f8337da-d458-4107-b4f2-f9e258be0beb.png/v1/fill/w_512,h_512,q_80,strp/documentary_folder_icon_by_oussi20om_dcjd0z4-fullview.jpg",
+"url": "https://pastebin.com/D9Mzy7MQ",
+"import": false
+},
+
+{
+"name": "TV Korea",
+"image": "https://play-lh.googleusercontent.com/BJOrGneekmEEn7xQRFES3Ge-F-AaV0xg-LlpjP3pi8LfNj8MN_eH596nGreKKGCudw",
+"url": "https://pastebin.com/asFQKSdJ",
+"import": false
+},
+
+
+{
+"name": "News Channel",
+"image": "https://i.pinimg.com/736x/fa/22/d7/fa22d7e72e9819b48960fa45a640f89f.jpg",
+"url": "https://pastebin.com/Fb1wh4uz",
+"import": "true"
+},
+
+
 	
 {
 		"name": "รายการสด",
