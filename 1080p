@@ -126,6 +126,12 @@ Copyright ©2024 Siamlink.com All rights reserved
 		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmH4AXBMxEbLiUm6epQ4OLrdvIxgzpOEu-Ew&usqp=CAU",
 		"url": "https://tinyurl.com/2s3ah6kx",	"import":"false"
 	},
+ {
+		"name": "หนัง",
+		"image": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/1715522688917.jpg",
+		"url": "https://raw.githubusercontent.com/kuroshibin/Movie/master/Movie",
+		"import":"false"
+	},
 	{
 		"name": "SIAMLINK-หนังออนไลน์",
 		"image": "https://raw.githubusercontent.com/Note20unlimited/Photo/main/1715917176597.jpg",
